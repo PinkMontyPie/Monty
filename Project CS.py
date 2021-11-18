@@ -144,5 +144,3 @@ def menu():
 first = True
 if first == True:
     first = login()
-
-#preintsf;kjdznkvfbnzkjnvklsjnbkzj,fvhbkazsjhm,fbnzhkjbvfc
