@@ -144,3 +144,6 @@ def menu():
 first = True
 if first == True:
     first = login()
+
+
+print("hello")
