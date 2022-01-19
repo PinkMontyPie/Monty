@@ -93,5 +93,3 @@ def contentwindow(root):
 root = createwindow()
 contentwindow(root)
 root.mainloop()
-
-#hello
